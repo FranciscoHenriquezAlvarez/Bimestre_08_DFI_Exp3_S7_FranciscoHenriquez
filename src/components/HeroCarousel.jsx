@@ -38,7 +38,7 @@ function HeroCarousel() {
         <div className="carousel-inner">
           <div className="carousel-item active">
             <img
-              src="/img/mortal-kombat.jpg"
+              src="img/mortal-kombat.jpg"
               className="d-block w-100"
               alt="Promoción de Mortal Kombat"
             />
@@ -46,7 +46,7 @@ function HeroCarousel() {
 
           <div className="carousel-item">
             <img
-              src="/img/minecraft.jpg"
+              src="img/minecraft.jpg"
               className="d-block w-100"
               alt="Promoción de Minecraft"
             />
@@ -54,7 +54,7 @@ function HeroCarousel() {
 
           <div className="carousel-item">
             <img
-              src="/img/fc26.jpg"
+              src="img/fc26.jpg"
               className="d-block w-100"
               alt="Promoción de EA Sports FC 26"
             />
